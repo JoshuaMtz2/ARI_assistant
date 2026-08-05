@@ -1,6 +1,14 @@
 # RPL ARI Resources
 ## Introduction
-This project focuses on developing an intelligent behavior system for **ARI**, a humanoid service robot developed by PAL Robotics. ARI is equipped with a variaty of sensors—including RGB-D cameras, microphones, and a mobile base—making it ideal for social robotics and human-robot interaction (HRI) tasks in indoor environments.
+
+<table>
+<tr>
+<td width="260">
+  <img src="ARI.png" width="240" alt="ARI robot"/>
+</td>
+<td>
+
+This project focuses on developing an intelligent behavior system for **ARI**, a humanoid service robot developed by PAL Robotics. ARI is equipped with a variety of sensors—including RGB-D cameras, microphones, and a mobile base—making it ideal for social robotics and human-robot interaction (HRI) tasks in indoor environments.
 
 ### Goal
 
@@ -13,6 +21,10 @@ We envision ARI being used in an office environment to:
 - Find other people based on last seen location or their office,
 - Answer spoken questions,
 - Assist with simple tasks via natural interaction.
+
+</td>
+</tr>
+</table>
 
 ### How It Works
 
